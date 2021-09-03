@@ -808,15 +808,7 @@ p{
   
 }
 
-#textbox > div {
-  padding: 20px;
-  cursor: pointer;
-  transition: transform 140ms;
 
-}
-#textbox > div:hover {
-  transform: scale(1.2);
-}
 
 
 
